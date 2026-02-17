@@ -1,0 +1,14 @@
+C:\Users\aiste.makutenaite\source\repos\LINQbasics\LINQbasics\bin\Debug\net8.0\LINQbasics.exe
+C:\Users\aiste.makutenaite\source\repos\LINQbasics\LINQbasics\bin\Debug\net8.0\LINQbasics.deps.json
+C:\Users\aiste.makutenaite\source\repos\LINQbasics\LINQbasics\bin\Debug\net8.0\LINQbasics.runtimeconfig.json
+C:\Users\aiste.makutenaite\source\repos\LINQbasics\LINQbasics\bin\Debug\net8.0\LINQbasics.dll
+C:\Users\aiste.makutenaite\source\repos\LINQbasics\LINQbasics\bin\Debug\net8.0\LINQbasics.pdb
+C:\Users\aiste.makutenaite\source\repos\LINQbasics\LINQbasics\obj\Debug\net8.0\LINQbasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiste.makutenaite\source\repos\LINQbasics\LINQbasics\obj\Debug\net8.0\LINQbasics.AssemblyInfoInputs.cache
+C:\Users\aiste.makutenaite\source\repos\LINQbasics\LINQbasics\obj\Debug\net8.0\LINQbasics.AssemblyInfo.cs
+C:\Users\aiste.makutenaite\source\repos\LINQbasics\LINQbasics\obj\Debug\net8.0\LINQbasics.csproj.CoreCompileInputs.cache
+C:\Users\aiste.makutenaite\source\repos\LINQbasics\LINQbasics\obj\Debug\net8.0\LINQbasics.dll
+C:\Users\aiste.makutenaite\source\repos\LINQbasics\LINQbasics\obj\Debug\net8.0\refint\LINQbasics.dll
+C:\Users\aiste.makutenaite\source\repos\LINQbasics\LINQbasics\obj\Debug\net8.0\LINQbasics.pdb
+C:\Users\aiste.makutenaite\source\repos\LINQbasics\LINQbasics\obj\Debug\net8.0\LINQbasics.genruntimeconfig.cache
+C:\Users\aiste.makutenaite\source\repos\LINQbasics\LINQbasics\obj\Debug\net8.0\ref\LINQbasics.dll
